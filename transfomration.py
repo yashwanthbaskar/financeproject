@@ -1,2 +1,3 @@
 print('transfomration1')
-print('new')
+print('one')
+print('two')
